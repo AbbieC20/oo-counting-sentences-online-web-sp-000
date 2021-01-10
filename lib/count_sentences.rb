@@ -26,16 +26,6 @@ class String
     end
   end
 
-
-
-
-
-
-
-
-
-
-
   def count_sentences
 
   end
